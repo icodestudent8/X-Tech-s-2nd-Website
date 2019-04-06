@@ -1,0 +1,92 @@
+<html>
+    <head>
+    <h1><b>THIS IS X-TECH'S BACKUP WEBSITE</b></h1>
+    <h1>Please Enjoy the Second Site!</h1> 
+		<title>X-Tech Enterprises</title>
+        <style>
+        .header{
+        	padding: 60px;
+            text-align: center;
+            background: #1abc9c;
+            color: white;
+            font-size: 30px;
+        }
+        </style>
+	</head> 
+<body>
+<div class="header">
+<h1>What X-Studios Does!</h1>
+<p>Make games,Make films,deliver hardware,and ban bad games
+</div>
+<p>X-Studios</p> 
+<img src="https://www.cmo.com/content/dam/CMO/Home%20Page/1046x616_Modern-Commerce-2.0-Technology-Sets-The-Stage-For-A-New-Round-Of-Disruption.jpg" width="280">
+
+ <img src="https://i.ytimg.com/vi/_Z0XHCDQkGE/maxresdefault.jpg"
+ width="297">
+ 
+ <img src="https://i.ytimg.com/vi/eqXdfQ68O9w/maxresdefault.jpg"https://i.ytimg.com/vi/f_42WtRGfiw/maxresdefault.jpg width="280">
+ 
+ <img src="https://compulsiongames.com/uploads/html_content/Otherbuttons.png" width="280">
+ 
+        <style>
+        .header{
+        	padding: 60px;
+            text-align: center;
+            background: #1abc9c;
+            color: white;
+            font-size: 30px;
+        }
+        </style>
+	</head> 
+<body>
+<div class="header">
+<h1>What X-Tech Does!</h1>
+<p>Make devices,deliver software to X-Studios,follow schedule,drink list,and make $$$
+</div>
+
+    <p>X-Tech Enterprises</p>
+    <p>With X-Studio Productions</p>
+    <p>And X-Stuido Entertainment</p>
+
+<a href="https://1-2-switch.nintendo.com">1,2,Switch for Nintendo Switch!...obviously</a>
+
+    <p>Up for hire list:</p>
+
+
+<table style="width:100%">
+  <tr>
+    <th>Joe Seay</th>
+    <th>Luke Cramer</th> 
+    <th>22 and 22 yrs old</th>
+  </tr>
+  <tr>
+    <td>William</td>
+    <td>Mundee</td> 
+    <td>23 yrs old</td>
+  </tr>
+  <tr>
+    <td>Naseer</td>
+    <td>Muhammed</td> 
+    <td>21 yrs old</td>
+  </tr>
+</table>
+<p>X-Tech's Drink Refreshment list</p>
+
+<ul style="list-style-type:square;">
+  <li>Moonshine</li>
+    <ul style="list-style-type:disc;">
+        <li>Tea</li>
+            <ul style="list-style-type:circle;">
+                <li>Coffee</li>
+                    <ul style="list-style-type:none;">
+                        <li>Gin Sometimes</li>
+                    </ul>
+            </ul>
+    </ul>
+</ul>
+
+<p>Thank you refreshment boys!</p>
+<p>And thanks for visiting this website we are all about clients!</p>
+
+</body>
+</html>
